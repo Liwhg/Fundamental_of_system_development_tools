@@ -1,0 +1,8 @@
+timestamp,user,path,status
+09:00:01,alice,/api/users,200
+09:00:02,bob,/api/orders,500
+09:00:03,alice,/login,200
+09:00:04,carol,/api/users,404
+09:00:05,bob,/api/orders,200
+09:00:06,alice,/health,200
+09:00:07,carol,/login,200

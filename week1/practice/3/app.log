@@ -1,0 +1,5 @@
+09:00 INFO server started
+09:01 ERROR database failed
+09:02 WARN high latency
+09:03 ERROR request timeout
+09:04 INFO server stopped
