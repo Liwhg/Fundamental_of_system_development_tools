@@ -1,1 +1,1 @@
-mode = conflict
+mode = normal
