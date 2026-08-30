@@ -1,2 +1,4 @@
 A file used to practice git.
 mode = origin
+mode = change 2
+wrong context
