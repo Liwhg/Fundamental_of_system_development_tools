@@ -2,4 +2,3 @@ A file used to practice git.
 mode = origin
 mode = change 2
 right context
-trmporary bad change
