@@ -1,7 +1,7 @@
 # Issue：空白姓名被接受
 
 ## 环境
-Ubuntu（版本待确认），Python 3.12.3，greetlab 0.1.0。
+Ubuntu 24.04.4 LTS，Python 3.12.3，greetlab 0.1.0。
 
 ## 复现
 执行 `sdt-greet --name " "`。
@@ -11,6 +11,9 @@ Ubuntu（版本待确认），Python 3.12.3，greetlab 0.1.0。
 
 ## 实际结果
 输出 `Hello,  !`，状态码为 0。
+
+## 已尝试
+使用 Q09 旧源码运行空白姓名测试，得到 `DID NOT RAISE SystemExit`；改用 Q10 修复源码后，测试通过。
 
 ## 提交信息
 拒绝仅含空白字符的姓名

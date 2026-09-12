@@ -1,0 +1,8 @@
+pyproject.toml
+src/greet_practice/__init__.py
+src/greet_practice/cli.py
+src/greet_practice.egg-info/PKG-INFO
+src/greet_practice.egg-info/SOURCES.txt
+src/greet_practice.egg-info/dependency_links.txt
+src/greet_practice.egg-info/entry_points.txt
+src/greet_practice.egg-info/top_level.txt
